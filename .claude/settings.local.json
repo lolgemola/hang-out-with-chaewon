@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"c:/github repo/meme-maker/image_picker.py\")",
+      "Bash(\"c:/github repo/meme-maker/utils.py\")"
+    ]
+  }
+}
